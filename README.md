@@ -67,7 +67,7 @@ Clone the repository and run the app locally:
 
 ```bash
 git clone https://github.com/Nox427/Capstone.git
-cd little-lemon-react
+cd "path to the project"
 npm install
 npm start
 ```
