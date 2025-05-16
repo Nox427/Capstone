@@ -61,6 +61,18 @@ Welcome to the **Little Lemon** restaurant website – a fully functional, respo
 
 ---
 
+## 🚀 Getting Started
+
+Clone the repository and run the app locally:
+
+```bash
+git clone https://github.com/Nox427/Capstone.git
+cd little-lemon-react
+npm install
+npm start
+```
+---
+
 ## 🧑‍💻 Author
 
 **Ahmad** ([@Nox427](https://github.com/Nox427))
